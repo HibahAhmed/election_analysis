@@ -18,5 +18,4 @@
 - Diana DeGette, who received 73.8% of the votes being 85,213 votes.'
 
 ## Challenge Overview
-# Challenge Summary
 - Python was ued to calculate the data and be able to find the results for the election. We were able to extract data from a CSV file and create variable with different data types. We are also used lists, typles and dictionaries in the process.
