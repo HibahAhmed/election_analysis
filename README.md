@@ -32,3 +32,5 @@ The results of the elections are shown below:
 Python was ued to calculate the data and be able to find the results for the election. We were able to extract data from a CSV file and create variable with different data types. We are also used lists, typles and dictionaries in the process.
 
 ## Challenge Summary
+
+Visual Studio Code was used along with the Python software to find the outcomes of the elections. The results deomonstrated that the largwst county turnover was in Denver.  The results also demonstrated that Diana Degette won the elections with 272, 892 votes which results in a winning percentage of 73.8%
