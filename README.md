@@ -12,7 +12,7 @@ The purpose of this project is to analyze candidates votes and be able to list a
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Software: Python 3.7.6, Visual Studio Code, 1.63.2
 
 ## Summary
 The results of the elections are shown below:
