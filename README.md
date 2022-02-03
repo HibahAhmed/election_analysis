@@ -1,6 +1,6 @@
 # Election_analysis
 
-## Overview of Project
+## Overview 
 
 The purpose of this project is to analyze candidates votes and be able to list and display the results as well as the winners. 
 
